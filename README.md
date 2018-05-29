@@ -5,5 +5,5 @@
 
 # tool
 
-1. python
+1. python2.7
 2. jmeter
