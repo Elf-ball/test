@@ -5,8 +5,8 @@
 
 # tool
 
-1. python2.7(编码工具，图形界面pycharm)
-    1. 测试框架：pytest
-2. jmeter，postman（接口测试工具）
-3. fiddler（抓包工具）
-4. testlink（项目管理工具）
+* python2.7(编码工具，图形界面pycharm)
+    * 测试框架：pytest
+* jmeter，postman（接口测试工具）
+* fiddler（抓包工具）
+* testlink（项目管理工具）
