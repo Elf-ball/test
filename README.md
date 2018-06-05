@@ -10,3 +10,4 @@
 * jmeter，postman（接口测试工具）
 * fiddler（抓包工具）
 * testlink（项目管理工具）
+* Axure Rp8(画需求工具)
