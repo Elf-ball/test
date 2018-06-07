@@ -11,3 +11,4 @@
 * fiddler（抓包工具）
 * testlink（用例管理工具）
 * Axure Rp8(画需求工具)
+* 测试不是团队成员能否直接合并到master上
