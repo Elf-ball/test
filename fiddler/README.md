@@ -9,8 +9,11 @@
     * 重启fiddler
     * fiddler安装配置完成,准备抓取手机数据.保证手机和电脑的网络处于同一局域网下
     * 手机链接局域网wifi，进入wifi高级设置设置代理为手动.设置代理服务器地址为电脑IP地址（进入电脑cmd使用命令ipconfig获取），设置端口号为8888
+    
     ![](https://github.com/Elf-ball/test/raw/add_fiddler_image/fiddler/4.png)
+    
     * 进入手机浏览器在搜索栏中输入Ip地址加端口号.如：192.168.0.0：8888
+    
     ![](https://github.com/Elf-ball/test/raw/add_fiddler_image/fiddler/5.png)
     * 这里就会进入到fiddler页面,点击页面最底部链接安装证书
     * 配置完成,在手机上操作就能在电脑上看到手机请求的数据了
