@@ -3,6 +3,7 @@
     * 点击页面顶部Tools,选择fiddler options（有的版本直接显示的是options
     ![](https://github.com/Elf-ball/test/raw/master/fiddler/1.png)
     * 在弹框中选择connections,点击勾选页面中的Allow remote computers to connect(这里顺带检查下端口号是否为8888)
+    ![](https://github.com/Elf-ball/test/raw/add_fiddler_image/fiddler/2.png)
     * 进入弹框页Https,勾选Capture HTTPS traffic,这里可能会选择安装证书.安装完证书后勾选Igonore sever certificate errors(unsafe)
     * 重启fiddler
     * fiddler安装配置完成,准备抓取手机数据.保证手机和电脑的网络处于同一局域网下
