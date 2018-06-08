@@ -1,6 +1,7 @@
 [fiddler官网](http://www.telerik.com/fiddler)
 * 配置fiddler
-    * 点击页面顶部Tools,选择fiddler options（有的版本直接显示的是options）
+    * 点击页面顶部Tools,选择fiddler options（有的版本直接显示的是options
+    ![](https://github.com/Elf-ball/test/raw/master/fiddler/1.png)
     * 在弹框中选择connections,点击勾选页面中的Allow remote computers to connect(这里顺带检查下端口号是否为8888)
     * 进入弹框页Https,勾选Capture HTTPS traffic,这里可能会选择安装证书.安装完证书后勾选Igonore sever certificate errors(unsafe)
     * 重启fiddler
