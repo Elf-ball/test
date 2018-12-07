@@ -2,6 +2,7 @@
 
 1. [axure-console](https://hi6ndg.axshare.com)
 2. [文本编辑语法markdown](https://guides.github.com/features/mastering-markdown/)
+3. [找工作需要避免的公司]（https://github.com/Hootrix/Chengdu-IT-company-blacklist）
 
 # tool
 
