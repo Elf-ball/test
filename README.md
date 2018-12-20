@@ -7,9 +7,12 @@
 
 # tool
 
-* python2.7(编码工具，图形界面pycharm)
-    * 测试框架：pytest
-* jmeter，postman（接口测试工具）
+* python2.7
+   * 编程语言，使用pycharm图形界面管理
+   * 测试框架：pytest
+   * 搭建环境：最好在Linux环境下搭建，Windows下容易出现各种奇怪的问题
+* jmeter，postman
+   * 接口测试工具
 * fiddler
    * 抓包工具，可以查看请求的方法和请求的参数
    * 可以模拟弱网环境
