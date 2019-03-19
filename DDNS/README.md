@@ -1,7 +1,7 @@
 # Link
 
-- [DNS基本原理](http://www.178linux.com/9994)
-- [DNS报文解析](https://blog.csdn.net/hunanchenxingyu/article/details/21488291)
-- [DNS查询流程以及域名的含义](http://www.ruanyifeng.com/blog/2016/06/dns.html)
-- [DDNS实现原理](https://blog.csdn.net/mika85489/article/details/50497171)
-- [DDNS内网穿透](https://blog.csdn.net/zhangguo5/article/details/77848658)
+- [DNS鍩烘湰鍘熺悊](http://www.178linux.com/9994)
+- [DNS鎶ユ枃瑙ｆ瀽](https://blog.csdn.net/answer3lin/article/details/84638845)
+- [DNS鏌ヨ娴佺▼浠ュ強鍩熷悕鐨勫惈涔塢(http://www.ruanyifeng.com/blog/2016/06/dns.html)
+- [DDNS瀹炵幇鍘熺悊](https://blog.csdn.net/mika85489/article/details/50497171)
+- [DDNS鍐呯綉绌块�廬(https://blog.csdn.net/zhangguo5/article/details/77848658)
