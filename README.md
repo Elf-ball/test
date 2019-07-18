@@ -1,9 +1,10 @@
 # Link
 
-1. [axure-console](https://hi6ndg.axshare.com)
-2. [文本编辑语法markdown](https://guides.github.com/features/mastering-markdown/)
-3. [github简易使用教程](http://www.bootcss.com/p/git-guide/)
-3. [找工作需要避免的公司](https://github.com/Hootrix/Chengdu-IT-company-blacklist)这是git上一些人不断补充上去的坑人公司
+- [axure-console](https://hi6ndg.axshare.com)
+- [文本编辑语法markdown](https://guides.github.com/features/mastering-markdown/)
+- [github简易使用教程](http://www.bootcss.com/p/git-guide/)
+- [python内置函数官方解释](http://docs.python.org/3/library/functions.html)
+- [找工作需要避免的公司](https://github.com/Hootrix/Chengdu-IT-company-blacklist)这是git上一些人不断补充上去的坑人公司
 
 # tool
 
