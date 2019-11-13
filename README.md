@@ -8,9 +8,9 @@
 
 # tool
 
-* python2.7
+* python3.6
    * 编程语言，使用pycharm图形界面管理
-   * 测试框架：pytest
+   * 测试框架：unittest,pytest
    * 搭建环境：最好在Linux环境下搭建，Windows下容易出现各种奇怪的问题
 * jmeter，postman
    * 接口测试工具
@@ -19,7 +19,7 @@
    * 可以模拟弱网环境
    * 可以修改请求的参数和返回的参数，方便快速查看前端界面的显示
 * wireshark
-   * 网络抓包工具，可以查看source IP和destination IP
+   * 网络抓包工具
    * 可以抓包查看端口转发之类的信息是否正确
 * 龙卷风
    * 模拟各种协议进行数据发包（不能进行TCP协议发包，可通过浏览器直接访问对应IP实现TCP协议发包）
